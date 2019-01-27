@@ -1,5 +1,5 @@
 # M-estimator-stable-tail-dependence-function-
-Please see 'MEstmatorForTailDependenceInArbitraryDimension -EINMAHL et al 2012' for details, you can download this paper from 'https://projecteuclid.org/euclid.aos/1349196391'. These work all devote to replicate the result in their paper.
+Please see 'MEstmatorForTailDependenceInArbitraryDimension -EINMAHL et al 2012' for details, you can download this paper from 'https://projecteuclid.org/euclid.aos/1349196391'. All code devote to replicating the result in their paper.
 
 1. Generate data with specific dependence structure (logistic distribution with Frechet marginal distribution, 2-factor model)
 
