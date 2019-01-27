@@ -6,3 +6,5 @@ Please see 'MEstmatorForTailDependenceInArbitraryDimension -EINMAHL et al 2012' 
 2. Define M-estimator which trys to minimize the distance between empirical stable tail dependence function and the theretical one by introducing an intermediary function. 
 
 3. compare bias and variance of this estimator with Censured MLE, and find the best threshold and intemediary function.
+
+4. You can see my report about the result.
